@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "titulo":"Conoce los Componentes de tu Futuro PC",
+        "descripcion":"En esta sección, aprenderás los conceptos esenciales del hardware para armar tu PC. Desde la placa madre hasta la tarjeta gráfica, exploraremos las piezas clave y cómo trabajan juntas. Ya seas principiante o busques refrescar tus conocimientos, aquí obtendrás la base necesaria para construir tu propia computadora.",
+        "imagen":"componentes.webp"
+    },
+    {
+        "id": "2",
+        "titulo":"Comienza a Armar tu PC",
+        "descripcion":"En esta sección, armarás tu PC de manera virtual. Descubriras la compatibilidad de los componentes mientras personalizas tu ordenador digitalmente. Sea que seas principiante o quieras mejorar tus habilidades, esta experiencia interactiva te permite ensamblar tu PC en línea.",
+        "imagen":"armarpc.jpg"
+    },
+    {
+        "id": "3",
+        "titulo":"Escoge tu Fuente de Poder Ideal",
+        "descripcion":"En esta etapa, elegirás la fuente de poder adecuada para tu ensamble. Aprenderás a considerar los requerimientos de energía de tus componentes y seleccionar una fuente que se ajuste perfectamente a tu configuración. Ya sea para una PC de alto rendimiento o una más básica, aquí tomarás una decisión informada sobre tu fuente de poder.",
+        "imagen":"psuEscoger.jpg"
+    }
+]

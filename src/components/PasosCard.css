@@ -1,0 +1,49 @@
+.img {
+  height: 300px;
+  width: 450px;
+  border-radius: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  transition: all 0.4s ease-in-out;
+}
+.img:hover {
+  box-shadow: 0 0.1rem 1rem whitesmoke;
+  cursor: pointer;
+}
+.img .cardTit {
+  font-size: 1.7em;
+  color: whitesmoke;
+  padding: 100px;
+  transition: all 0.4s ease-in-out;
+}
+
+.paso {
+  font-size: 2em;
+  color: whitesmoke;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 1em;
+  color: whitesmoke;
+  text-align: justify;
+  width: 450px;
+  padding-top: 30px;
+}
+
+.lista {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.lista .span {
+  color: whitesmoke;
+}
+.lista .img:hover .cardTit {
+  color: #7700ff;
+  transition: color 0.4s linear 0.1s;
+}
+
+/*# sourceMappingURL=PasosCard.css.map */

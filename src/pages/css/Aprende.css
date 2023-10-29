@@ -1,0 +1,14 @@
+.titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-top: 0;
+}
+
+/*# sourceMappingURL=Aprende.css.map */

@@ -1,0 +1,15 @@
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 35vh;
+  }
+  
+  .listado {
+    list-style: none;
+    justify-content: center;
+    display: flex;
+  }
+  

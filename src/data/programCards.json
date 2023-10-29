@@ -1,0 +1,21 @@
+[
+    {
+        "id":"0",
+        "titulo": "Conocimiento de hardware",
+        "imagen": "hardware.png",
+        "descripcion": "Aprenderás sobre los componentes clave de una computadora y cómo se conectan y funcionan en conjunto, incluyendo la instalación de la CPU, la memoria RAM y otros componentes esenciales en la placa madre."
+    },
+    {
+        "id":"1",
+        "titulo": "Compatibilidad",
+        "imagen": "amd-vs-intel.png",
+        "descripcion": "Aprenderás sobre la compatibilidad entr componentes, verificando, conectores, tamaños y especificaciones técnicas se ajusten adecuadamente para garantizar un montaje sin problemas y un rendimiento óptimo."
+    },
+    {
+        "id":"2",
+        "titulo": "Ensamblaje",
+        "imagen": "ensamblaje.png",
+        "descripcion": "Te familiarizarás con la instalación física de los componentes dentro de la carcasa de la computadora. Esto incluye la instalación de la CPU en la placa madre, la inserción de la memoria RAM, la conexión de cables y la fijación de la fuente de poder."
+    }
+    
+]

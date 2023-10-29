@@ -1,0 +1,50 @@
+[
+    {
+        "id":"0",
+        "titulo": "Procesador",
+        "imagen": "proce.webp",
+        "descripcion": "Un procesador, o CPU (Unidad Central de Procesamiento), es el cerebro de una computadora. Se encarga de ejecutar instrucciones y realizar cálculos para todas las operaciones del sistema. Desde abrir aplicaciones hasta navegar por la web, el procesador coordina y procesa la información, siendo esencial para el rendimiento general de la máquina. (click en imagen para mayor información)"
+    },
+    {
+        "id":"1",
+        "titulo": "Tarjeta de video",
+        "imagen": "graficas-portada.webp",
+        "descripcion": "Una tarjeta de video, también conocida como GPU (Unidad de Procesamiento Gráfico), es un componente esencial en una computadora que se encarga de procesar y renderizar imágenes y videos. Es fundamental para mejorar el rendimiento gráfico en tareas como juegos, edición de video y diseño 3D, aliviando la carga de trabajo de la CPU y brindando una experiencia visual más fluida y de alta calidad. (click en imagen para mayor información)"
+    },
+    {
+        "id":"2",
+        "titulo": "Placa madre",
+        "imagen": "mother.jpg",
+        "descripcion": "La placa madre, o motherboard, es la columna vertebral de una computadora. Conecta y coordina todos los componentes, como CPU, RAM y tarjetas de expansión. Proporciona puertos y conexiones esenciales, permitiendo que los dispositivos trabajen juntos. Es el núcleo que facilita la comunicación y el funcionamiento de todo el sistema. (click en imagen para mayor información)"
+    },
+    {
+        "id":"3",
+        "titulo": "Memoria ram",
+        "imagen": "ram.png",
+        "descripcion": "La memoria RAM (Random Access Memory) es la memoria temporal de una computadora. Almacena datos y programas en uso, permitiendo un acceso rápido para la CPU. Cuanta más RAM, más tareas y aplicaciones pueden ejecutarse simultáneamente, mejorando el rendimiento general del sistema al acelerar la manipulación de datos y la multitarea. (click en imagen para mayor información)"
+    },
+    {
+        "id":"4",
+        "titulo": "Almacenamiento",
+        "imagen": "ssd.jpg",
+        "descripcion": "El almacenamiento en computación incluye unidades de estado sólido (SSD) y discos duros (HDD). Los SSD son más rápidos y duraderos al utilizar memoria flash, ideales para arranque de sistema y aplicaciones. Los HDD usan discos magnéticos y ofrecen más capacidad a un costo menor, ideales para almacenar grandes archivos. La elección depende de la velocidad y capacidad que necesites para tus necesidades de almacenamiento. (click en imagen para mayor información)"
+    },
+    {
+        "id":"5",
+        "titulo": "Cooler",
+        "imagen": "cooler.webp",
+        "descripcion": "Los sistemas de refrigeración del procesador, como los coolers o disipadores térmicos, son esenciales para mantener una temperatura adecuada en la CPU. Utilizan ventiladores y aletas de metal para disipar el calor generado durante la operación. Evitan el sobrecalentamiento, lo que podría dañar el procesador y reducir el rendimiento. La elección de un sistema de refrigeración depende de factores como el tipo de CPU, el rendimiento deseado y el espacio disponible en la carcasa o gabinete. (click en imagen para mayor información)"
+    },
+    {
+        "id":"6",
+        "titulo": "Gabinete",
+        "imagen": "gabinete.jpg",
+        "descripcion": "El gabinete de una computadora, también conocido como chasis o carcasa, es la estructura que alberga y protege todos los componentes internos. Proporciona acceso a puertos, botones y ventilación adecuada para mantener una temperatura óptima. Los gabinetes vienen en diferentes tamaños y diseños, permitiendo la personalización y la expansión de hardware. La elección depende de las necesidades de espacio, estética y funcionalidad de tu configuración. (click en imagen para mayor información)"
+    },
+    {
+        "id":"7",
+        "titulo": "Ventiladores",
+        "imagen": "fans.jpg",
+        "descripcion": "Los ventiladores del gabinete, también conocidos como ventiladores de chasis, se utilizan para mejorar la circulación de aire dentro de la carcasa. Ayudan a mantener una temperatura adecuada para todos los componentes, evitando el sobrecalentamiento. Puedes colocar ventiladores adicionales en diferentes puntos del gabinete para optimizar el flujo de aire y mejorar la refrigeración general del sistema, lo que es crucial para un rendimiento estable y duradero. (click en imagen para mayor información)"
+    }
+]

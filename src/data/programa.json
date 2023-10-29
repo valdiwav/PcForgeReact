@@ -1,0 +1,12 @@
+[
+    {
+        "titulo": "Conocimiento de Hardware",
+        "metodo": "En nuestra plataforma, aprenderás a ensamblar una PC a través de un enfoque práctico y visual. Proporcionamos tutoriales paso a paso en video y guías interactivas que te llevarán a través de cada proceso de ensamblaje. Este método te permite aprender haciendo, adquiriendo las habilidades necesarias de manera efectiva y divertida.",
+        "proposito": "Nuestro propósito principal es capacitar a las personas para que se conviertan en expertos en la creación de sus propias PCs. Queremos que te sientas confiado al personalizar tu hardware, ahorrar dinero en la compra de una computadora prefabricada y comprender mejor cómo funcionan las computadoras. Ya sea para juegos, trabajo o proyectos personales, nuestro objetivo es que tengas el conocimiento y la habilidad para construir la PC perfecta para ti.",
+        "objetivos":{
+            "o1":"Capacitar a los usuarios para que ensamblen su PC desde cero, proporcionando instrucciones claras y recursos visuales.",
+            "o2":"Fomentar la independencia tecnológica al mejorar la comprensión de los componentes de hardware y su compatibilidad.",
+            "o3":"Promover la resolución de problemas de hardware y el mantenimiento preventivo, lo que permitirá a los usuarios prolongar la vida útil de sus PCs y ahorrar dinero a largo plazo."
+        }
+    }
+]

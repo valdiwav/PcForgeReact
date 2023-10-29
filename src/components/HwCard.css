@@ -1,0 +1,51 @@
+.hw-img {
+  height: 300px;
+  width: 500px;
+  border-radius: 20px;
+  margin: 20px;
+  transition: all 0.4s ease-in-out;
+}
+.hw-img:hover {
+  box-shadow: 0 0.1rem 1rem whitesmoke;
+  transition: box-shadow 0.4s linear 0.1s;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 3.5em;
+  color: whitesmoke;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: whitesmoke;
+}
+
+p {
+  font-size: 1.2em;
+  color: whitesmoke;
+}
+
+.mi-descripcion {
+  text-align: justify;
+}
+
+.desc-container {
+  display: flex;
+  width: 900px;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  margin-top: 70px;
+}
+
+.mi-titulo {
+  text-align: center;
+}
+
+.containerAll {
+  display: flex;
+  margin-bottom: 70px;
+}
+
+/*# sourceMappingURL=HwCard.css.map */

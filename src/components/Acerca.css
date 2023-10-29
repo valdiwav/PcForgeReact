@@ -1,0 +1,20 @@
+.lista h1 {
+  font-size: 3em;
+  color: whitesmoke;
+}
+.lista h2 {
+  font-size: 2em;
+  color: blueviolet;
+  margin-bottom: 20px;
+}
+.lista .parrafo {
+  display: flex;
+  text-align: justify;
+  font-size: 1em;
+  color: whitesmoke;
+  text-align: justify;
+  width: 900px;
+  padding-top: 30px;
+}
+
+/*# sourceMappingURL=Acerca.css.map */
