@@ -13,7 +13,7 @@ export default function App() {
        <BarraNav/>
     </header>
     <main>
-        <Pasos/>
+        <Home/>
     </main>
   </div>
   
