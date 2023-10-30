@@ -14,6 +14,9 @@ export default function App() {
     </header>
     <main>
         <Home/>
+        {/*<Aprende/>*/}
+        {/*<Conocimiento/>*/}
+        {/*<Pasos/>*/}
     </main>
   </div>
   
