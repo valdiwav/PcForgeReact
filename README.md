@@ -1,3 +1,62 @@
+IMPORTANTE!
+# INSTRUCCIONER PARA VISUALIZAR LAS UI
+
+Para visualizar las distintas interfaces de usuario (UI), siga las instrucciones a continuación. Tenga en cuenta que solo debe tener un componente descomentado a la vez, y debe comentar cualquier otro componente previamente descomentado para evitar errores.
+
+## Inicio de Sesión
+Para acceder a la interfaz de inicio de sesión, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<AppLogin/>`.
+3. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Registro
+Para acceder a la interfaz de registro, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<AppSign/>`.
+3. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Recuperar Contraseña
+Para acceder a la interfaz de recuperar contraseña, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<AppRecuperar/>`.
+3. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Home
+Para acceder a la interfaz de Home, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<App/>`.
+3. Luego, entre en el archivo `src/App.jsx`.
+4. Descomente la línea que contiene `<Home/>`.
+5. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Aprende
+Para acceder a la interfaz de Aprende, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<App/>`.
+3. Luego, entre en el archivo `src/App.jsx`.
+4. Descomente la línea que contiene `<Aprende/>`.
+5. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Conocimiento
+Para acceder a la interfaz de Conocimiento, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<App/>`.
+3. Luego, entre en el archivo `src/App.jsx`.
+4. Descomente la línea que contiene `<Conocimiento/>`.
+5. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+## Pasos
+Para acceder a la interfaz de Pasos, siga estos pasos:
+1. Abra el archivo `src/index.js`.
+2. Descomente la línea que contiene `<App/>`.
+3. Luego, entre en el archivo `src/App.jsx`.
+4. Descomente la línea que contiene `<Pasos/>`.
+5. Comente cualquier otro componente previamente descomentado si los hubiera.
+
+NOMBRES:
+  -ALVARO VALDIVI
+  -ROMINA RIVEROS
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
