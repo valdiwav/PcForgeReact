@@ -9,9 +9,9 @@ import AppLogin from './AppLogin';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    /*<App />*/
+    <App />
     /*<AppRecuperar/>*/
-    <AppSign/>
+    /*<AppSign/>*/
     /*<AppLogin/>*/
 );
 
